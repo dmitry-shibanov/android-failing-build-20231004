@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="homeHighlightedColumns">3</integer>
+    <integer name="homeSectionColumns">4</integer>
+
+    <integer name="topicOverviewColumns">4</integer>
+</resources>

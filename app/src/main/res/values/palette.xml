@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary25">#B0C6C1</color>
+    <color name="primary50">#41AFB0</color>
+    <color name="primary75">#379596</color>
+    <color name="primary100">#0B646B</color>
+
+    <color name="secondary25">#FF9A4E</color>
+    <color name="secondary50">#FF7812</color>
+    <color name="secondary75">#F27211</color>
+    <color name="secondary100">#E66C10</color>
+
+    <color name="longread25">#F47C65</color>
+    <color name="longread50">#F05031</color>
+    <color name="longread75">#D6472C</color>
+    <color name="longread100">#A3180F</color>
+
+    <color name="persoonlijk25">#F2B384</color>
+    <color name="persoonlijk50">#F28533</color>
+    <color name="persoonlijk75">#E57E30</color>
+    <color name="persoonlijk100">#CC702B</color>
+
+    <color name="negative25">#D54B4B</color>
+    <color name="negative50">#E01111</color>
+    <color name="negative75">#C60F0F</color>
+    <color name="negative100">#AD0D0D</color>
+
+    <color name="positive25">#B0C6C1</color>
+    <color name="positive50">#41AFB0</color>
+    <color name="positive75">#379596</color>
+    <color name="positive100">#0B646B</color>
+
+    <color name="neutral0">#000000</color>
+    <color name="neutral10">#191919</color>
+    <color name="neutral20">#332F2C</color>
+    <color name="neutral30">#4C4642</color>
+    <color name="neutral40">#73655F</color>
+    <color name="neutral50">#A6988F</color>
+    <color name="neutral60">#CDBEB4</color>
+    <color name="neutral70">#E5D1C6</color>
+    <color name="neutral80">#F1DED2</color>
+    <color name="neutral90">#FFEADB</color>
+    <color name="neutral100">#FFFFFF</color>
+
+</resources>

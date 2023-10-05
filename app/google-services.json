@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "90152041376",
+    "firebase_url": "https://fd-app-cd0f0.firebaseio.com",
+    "project_id": "fd-app-cd0f0",
+    "storage_bucket": "fd-app-cd0f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90152041376:android:582de2df014094a7",
+        "android_client_info": {
+          "package_name": "nl.fdmg.fd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90152041376-fthdvi9chpibvl482idcngt79b5i6628.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.fdmg.fd",
+            "certificate_hash": "a7e46536c46f9a4cf5c8dfb52a80e60f9017703a"
+          }
+        },
+        {
+          "client_id": "90152041376-nqdd6ua4b501l0bkgvkhm6u6pb15sqmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.fdmg.fd",
+            "certificate_hash": "0e24702e85935183a4a9f8e67ec1f5608d855c45"
+          }
+        },
+        {
+          "client_id": "90152041376-m4krj8j5hs7q9d2dfm14gsmk2amm2mh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTztai7q2BWYEImWjvuXiUyMEDGrNVzKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90152041376-m4krj8j5hs7q9d2dfm14gsmk2amm2mh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90152041376-6j15e0i1pd8u08cb68cafdp0cnmr61si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nl.fdmg.fdfocus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90152041376:android:3cd233a234b3ea2d",
+        "android_client_info": {
+          "package_name": "nl.fdmg.fd.acc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90152041376-98utmspal64b472dao511j491il7juqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.fdmg.fd.acc",
+            "certificate_hash": "a7e46536c46f9a4cf5c8dfb52a80e60f9017703a"
+          }
+        },
+        {
+          "client_id": "90152041376-m4krj8j5hs7q9d2dfm14gsmk2amm2mh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTztai7q2BWYEImWjvuXiUyMEDGrNVzKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90152041376-m4krj8j5hs7q9d2dfm14gsmk2amm2mh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90152041376-6j15e0i1pd8u08cb68cafdp0cnmr61si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nl.fdmg.fdfocus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90152041376:android:6aadd68e96877f48",
+        "android_client_info": {
+          "package_name": "nl.fdmg.fd.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90152041376-gmii2vehganurfob5lur297t7g665qlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.fdmg.fd.dev",
+            "certificate_hash": "a7e46536c46f9a4cf5c8dfb52a80e60f9017703a"
+          }
+        },
+        {
+          "client_id": "90152041376-m4krj8j5hs7q9d2dfm14gsmk2amm2mh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTztai7q2BWYEImWjvuXiUyMEDGrNVzKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90152041376-m4krj8j5hs7q9d2dfm14gsmk2amm2mh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90152041376-6j15e0i1pd8u08cb68cafdp0cnmr61si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nl.fdmg.fdfocus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

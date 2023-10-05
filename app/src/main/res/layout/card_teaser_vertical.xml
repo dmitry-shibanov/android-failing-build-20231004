@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <import type="nl.fd.ui.misc.TeaserUtils" />
+
+        <variable
+            name="teaser"
+            type="nl.fd.data.entity.card.teaser.Teaser" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/homeGridMargin"
+        android:layout_marginTop="@dimen/homeGridMarginTop"
+        android:layout_marginBottom="@dimen/homeGridMarginBottom"
+        android:background="@drawable/bottom_line_background"
+        >
+
+        <TextView
+            android:id="@+id/basic_teaser_title"
+            style="@style/TeaserTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/teaserLayoutPaddingSides"
+            android:layout_marginEnd="@dimen/teaserLayoutPaddingSides"
+            android:layout_marginBottom="@dimen/verticalTeaserTitleMarginBottom"
+            android:text="@{TeaserUtils.teaserTitle(teaser)}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/basic_teaser_intro"
+            tools:text="Title of an awesome article" />
+
+        <TextView
+            android:id="@+id/basic_teaser_intro"
+            style="@style/TeaserIntro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/teaserLayoutPaddingSides"
+            android:layout_marginEnd="@dimen/teaserLayoutPaddingSides"
+            android:layout_marginBottom="@dimen/verticalTeaserMarginBottom"
+            android:text="@{teaser.teaserIntro}"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/basic_teaser_title"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:text="Intro of a few lines, concerning a pretty awesome article. Pretty cool stuff, I promise you, definitely well worth your time."
+            tools:visibility="visible" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="homeOpeningColumns">1</integer>
+    <integer name="homeHighlightedColumns">1</integer>
+    <integer name="homeSectionColumns">1</integer>
+    <integer name="homeSectionPodcastColumns">1</integer>
+
+    <integer name="topicOverviewColumns">2</integer>
+</resources>

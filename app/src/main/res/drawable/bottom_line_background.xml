@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottom_line_background_border">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/neutral60" />
+        </shape>
+    </item>
+    <item
+        android:id="@+id/bottom_line_background_inlay"
+        android:bottom="@dimen/cardBottomLine">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/neutral90" />
+        </shape>
+    </item>
+</layer-list>

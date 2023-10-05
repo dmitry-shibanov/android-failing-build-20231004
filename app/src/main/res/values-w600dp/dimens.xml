@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="breakingTeaserMarginLeft">16dp</dimen>
+    <dimen name="breakingTeaserMarginTop">16dp</dimen>
+    <dimen name="breakingTeaserDefaultHeight">128dp</dimen>
+
+    <dimen name="homeHorizontalMargin">20dp</dimen>
+    <dimen name="homeHorizontalGridMargin">12dp</dimen>
+    <dimen name="homeGridMargin">8dp</dimen>
+    <dimen name="homeGridMarginTop">8dp</dimen>
+    <dimen name="homeGridMarginBottom">8dp</dimen>
+    <dimen name="sectionBlockHeaderTextSize">22sp</dimen>
+
+    <dimen name="horizontalCardSquareImageSize">@dimen/horizontalCardSquareImageLarge</dimen>
+
+    <dimen name="sectionHeaderTextSize">30sp</dimen>
+
+    <dimen name="stockTickerIconSize">12dp</dimen>
+    <dimen name="stockTickerMarginTop">14dp</dimen>
+    <dimen name="stockTickerMarginBottom">4dp</dimen>
+
+    <dimen name="overviewHeaderMarginLeft">0dp</dimen>
+
+    <dimen name="shortArticleHorizontalMargin">0dp</dimen>
+
+    <dimen name="articleTitleSize">43sp</dimen>
+    <dimen name="articleBackgroundTitleSize">52sp</dimen>
+    <dimen name="articleMetaTextSize">15sp</dimen>
+
+    <dimen name="articleSuggestionsMarginSide">8dp</dimen>
+
+    <dimen name="upsellIconSize">54dp</dimen>
+    <dimen name="upsellTitleSize">27sp</dimen>
+    <dimen name="upsellIntroSize">18sp</dimen>
+    <dimen name="upsellServiceSize">13sp</dimen>
+
+    <dimen name="loginIconSize">54dp</dimen>
+    <dimen name="loginTitleSize">27sp</dimen>
+    <dimen name="loginTextSize">18sp</dimen>
+
+</resources>

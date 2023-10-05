@@ -1,0 +1,299 @@
+{
+  "cmpId": 3,
+  "appId": "7dc9c6d7-99d6-4c1a-966d-17a9b77fdcb1",
+  "cmpVersion": 0,
+  "configVersion": 1,
+  "logging": false,
+  "suppressUI": false,
+  "publisherCountry": "",
+  "purposeOneTreatment": false,
+  "useNonStandardStacks": false,
+  "displayNotice": true,
+  "redisplayAfter": {
+    "accept": 31536000,
+    "reject": 31536000,
+    "vendorChange": 2592000,
+    "configChange": 2592000
+  },
+  "consentDataConfig": {
+    "vendors": [],
+    "lockedPurposesPerVendor": [],
+    "handleLegIntOnAcceptAndDenyAll": false,
+    "purposeOneTreatment": false,
+    "publisherCC": "",
+    "publisher": {
+      "enabled": false,
+      "purposes": [],
+      "legIntPurposes": [],
+      "lockedPurposes": [],
+      "specialPurposes": [],
+      "features": [],
+      "name": "Publisher / Brand",
+      "policyUrl": "https://publisher.com/policy"
+    }
+  },
+  "geoTargeting": {
+    "allCountries": false,
+    "countries": [
+      "AT",
+      "BE",
+      "BG",
+      "HR",
+      "CY",
+      "CZ",
+      "DK",
+      "EE",
+      "FI",
+      "FR",
+      "DE",
+      "GR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LV",
+      "LU",
+      "MT",
+      "NL",
+      "PL",
+      "PT",
+      "RO",
+      "SK",
+      "SI",
+      "ES",
+      "SE",
+      "GB"
+    ],
+    "includeSelection": true
+  },
+  "supportedLocales": [
+    "en"
+  ],
+  "defaultLocale": "en",
+  "topics": {
+    "en": [
+      {
+        "title": "Why Do You Need My Consent?",
+        "icon": "how-is-my-data-used",
+        "text": "<p>This site and its partners store and access personal data based on unique identifiers such as cookies. The EU General Data Protection Regulation calls for freely-given consent prior to processing any personal data. As such, to provide the best experience for you on our properties, we ask for your consent to allow us and our partners to process your data.</p><p>By accepting or rejecting consent, you give your express consent with regards to data processing on this site. You agree to share your personal data with us and our partners on this site. If you do not consent to or withdraw consent from data processing by us and our vendors, this may adversely affect site functions and your experience.</p><p>To see the list of vendors processing your data, click on the “Our Partners” link below.</p>",
+        "tip": "",
+        "displayPurposes": false,
+        "expanded": false,
+        "showOnNotice": false
+      },
+      {
+        "title": "Why Do You Use My Data?",
+        "icon": "consent",
+        "text": "<p>By reviewing and consenting to the purposes and special features listed, you agree to have your personal data processed by us and our partners. This enables us to improve our services and facilitate a better user experience for you. Not consenting or withdrawing consent, may adversely affect certain features and functions of our digital properties. We process your data for a variety of purposes. These purposes and the special features that support these purposes are listed below.</p>",
+        "tip": "",
+        "displayPurposes": true,
+        "expanded": false,
+        "showOnNotice": false
+      },
+      {
+        "title": "Withdrawing My Consent",
+        "icon": "cookie",
+        "text": "<ul><li>Withdrawing Consent</li></ul><p>You may withdraw your consent and update your preferences at any time by resurfacing the Privacy Manager. However, please be aware that not all vendors request consent and some may process data on the basis of legitimate interest – you have the right to object processing on both these grounds. Click “Our Partners” below to review the list of vendors processing data based on consent and legitimate interest.</p><ul><li>Resurfacing the Privacy Manager</li></ul><p>You can review and update your privacy settings at any time by clicking the Privacy Settings Icon in the bottom of the screen.</p>",
+        "tip": "",
+        "displayPurposes": false,
+        "expanded": false,
+        "showOnNotice": false
+      }
+    ]
+  },
+  "localization": {
+    "en": {
+      "introTitle": "Manage Your Privacy",
+      "introDescription": "To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behaviour or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.\nClick below to consent to the above or make granular choices, including exercising your right to object to companies processing personal data based on legitimate interest instead of consent.",
+      "disclosureIntro": "We use your data for:",
+      "purposesTitle": "Manage Your Privacy",
+      "purposesTabDescription": "We and selected companies may access and use your data for the purposes below. Click into any purpose to customise your preferences and to learn who is requesting consent and/or claiming legitimate interest to process your data for that purpose.<br>Please note that when all purposes are disallowed, some site functionality may be affected.",
+      "purposesDetailsTitle": "Manage Your Privacy",
+      "purposesDetailsDescription": "See below to learn more about this purpose and who is requesting consent and/or claiming legitimate interest to process your data for this purpose.",
+      "specialPurposeDetailsTitle": "Manage Your Privacy",
+      "specialPurposeDetailsDescription": "This purpose is necessary to make the service work and therefore cannot be rejected nor turned off. The data for this purpose can only be used for the specified data processing operations.",
+      "featureDetailsTitle": "Manage Your Privacy",
+      "featureDetailsDescription": "Features support purposes and improve our ability to deliver services to you. See below to learn more about this feature and who is using it to process your data.",
+      "specialFeaturesDetailsTitle": "Manage Your Privacy",
+      "specialFeaturesDetailsDescription": "Special features support purposes and improve our ability to deliver services to you. See below to customise your preferences with regard to this special feature and/or learn more about who is using it to process your data.",
+      "vendorsTitle": "Manage Your Privacy",
+      "vendorsTabDescription": "These are the vendors who process your data. Click into any vendor to customise your data processing preferences and learn which purposes they are requesting consent and/or which purposes they are claiming legitimate interest for.",
+      "vendorsDetailsTitle": "Manage Your Privacy",
+      "vendorsDetailsDescription": "See below to customise your data processing preferences and learn which purposes this partner is requesting consent and/or which purposes they are claiming legitimate interest for.",
+      "publisherDetailsTitle": "Manage Your Privacy",
+      "publisherDetailsIntroText": "See below to customise your data processing preferences and learn which purposes this partner is requesting consent and/or which purposes they are claiming legitimate interest for.",
+      "publisherDetailsDescription": "See below to learn more about which purposes we are requesting consent and/or claiming legitimate interest to process your data for.",
+      "deny": "Reject",
+      "denyAll": "Reject All",
+      "accept": "Accept",
+      "acceptAll": "Accept All",
+      "saveAndExit": "Save and Exit",
+      "reset": "Reset",
+      "close": "Close",
+      "cancel": "Cancel",
+      "on": "On",
+      "off": "Off",
+      "alwaysOn": "Always On",
+      "privacyManager": "Privacy Manager",
+      "privacyInformation": "Information",
+      "purposes": "Purposes",
+      "vendors": "Vendors",
+      "features": "Features",
+      "manageVendors": "Our Partners",
+      "manageSettings": "Manage Settings",
+      "backToNotice": "Back",
+      "acceptAllDescription": "By accepting all, you will allow all purposes we and third-parties request.",
+      "denyAllDescription": "Be aware that by clicking “Reject” not all features of this app may operate properly.",
+      "giveConsentToAll": "Give Consent to All",
+      "revokeConsentToAll": "Revoke Consent to All",
+      "thirdPartyVendors": "Our Partners",
+      "iabExplanation": "Consent is stored and processed in compliance with the IAB Transparency and Consent Framework policy.",
+      "viewPrivacyPolicy": "View Privacy Policy",
+      "privacyInformationSubtitle": "Learn About Privacy",
+      "privacyInformationDescription": "Dig deeper and learn more about why we need your consent, why and how we use your data, where your consent is used, how to update your preferences, and more.",
+      "tip": "TIP!",
+      "auditIdTitle": "Audit ID",
+      "auditIdExplanation": "The Audit ID is a random unique number that is generated for you when you visit this website. The purpose of the Audit ID is to keep a record of your preference history on which cookies you accepted and when. The information kept in relation to your Audit ID includes: timestamp, version of cookie vendor list, and a list of vendors that are allowed to process your data.",
+      "myAuditId": "My Audit Id",
+      "copyToClipboard": "Copy to Clipboard",
+      "resetMyAuditId": "Reset My Audit ID",
+      "resetAuditIdDialogTitle": "Reset Audit ID?",
+      "resetAuditIdDialogBody": "Resetting your Audit ID will make it impossible for the website owner to verify your consent history prior to the reset.",
+      "legitimateInterestNote": "For some purposes, your personal data may be processed on the legal ground of legitimate interest.",
+      "purposeDetailsRequiringConsentFor": "Vendors Requesting Consent",
+      "purposeDetailsClaimingLegitimateInterestFor": "Vendors Claiming Legitimate Interest",
+      "featureDetailsProcessingDataFor": "Vendors Using This Feature",
+      "vendorDetailsRequiringConsentFor": "Requesting Consent To",
+      "vendorDetailsClaimingLegitimateInterestFor": "Claiming Legitimate Interest To",
+      "vendorDetailsSupportingFeature": "Feature(s) in Use",
+      "ok": "Ok",
+      "exitButtonBoxTitle": "Save Your Preferences",
+      "exitButtonBoxDescription": "By pressing OK you are confirming your privacy preferences. It’s possible to change your settings at any time.",
+      "consent": "Consent",
+      "legitimateInterest": "Legitimate Interest",
+      "moreInfo": "More Info",
+      "resurfacingElaborationToggle": "You can update your choices at any time by clicking on the Privacy icon in the bottom of the screen.",
+      "resurfacingElaborationMenu": "You can update your choices at any time by going to the settings menu.",
+      "resurfacingElaborationNoToggle": "You can change your settings at any time by visiting our privacy policy.",
+      "customResurfacingElaboration": "",
+      "vendorsUsingThisPurpose": "Vendors Using This Purpose"
+    }
+  },
+  "uiConfig": {
+    "globalUiConfig": {
+      "acceptBtnVisibility": true,
+      "acceptAllDialogEnabled": true,
+      "saveAndExitDialogEnabled": true,
+      "saveAndExitEnabled": true,
+      "denyBtnVisibility": true,
+      "denyAllDialogEnabled": true,
+      "denyAllAction": 0,
+      "denyRestrictions": 0,
+      "headerShowCloseBtn": false,
+      "headerShowLogo": true,
+      "closeDialogEnabled": true,
+      "titleAlignment": "center",
+      "rejectAllFirstLayerVisibility": true,
+      "rejectAllSecondLayerVisibility": true,
+      "backToNoticeVisibility": false,
+      "androidCustomFont": {
+        "useCustomFont": false,
+        "regularFontName": "",
+        "semiBoldFontName": "",
+        "boldFontName": ""
+      },
+      "iOSCustomFont": {
+        "useCustomFont": false,
+        "regularFontName": "",
+        "semiBoldFontName": "",
+        "boldFontName": ""
+      }
+    },
+    "darkMode": {
+      "backgroundColor": "#000000",
+      "headerColor": "#4a4949",
+      "tabTitleFontColor": "#73c06b",
+      "paragraphFontColor": "#ffffff",
+      "accentFontColor": "#ff8b00",
+      "navigationLinkFontColor": "#ff8b00",
+      "acceptBtn": {
+        "bgColor": "#f68d2e",
+        "strokeColor": "#f68d2e",
+        "textColor": "#ffffff",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "saveAndExitBtn": {
+        "bgColor": "#00FFFFFF",
+        "strokeColor": "#f68d2e",
+        "textColor": "#f68d2e",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "denyBtn": {
+        "bgColor": "#00FFFFFF",
+        "strokeColor": "#C1C1C1",
+        "textColor": "#C1C1C1",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "manageSettingsBtn": {
+        "bgColor": "#00FFFFFF",
+        "strokeColor": "#f68d2e",
+        "textColor": "#f68d2e",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "headerLogoUrl": "https://asset-prod.launch.liveramp.com/fingerprint-logo-white.png"
+    },
+    "normalMode": {
+      "backgroundColor": "#ffffff",
+      "headerColor": "#4a4949",
+      "tabTitleFontColor": "#73c06b",
+      "paragraphFontColor": "#48484A",
+      "accentFontColor": "#48484A",
+      "navigationLinkFontColor": "#48484A",
+      "acceptBtn": {
+        "bgColor": "#48484A",
+        "strokeColor": "#48484A",
+        "textColor": "#ffffff",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "saveAndExitBtn": {
+        "bgColor": "#00FFFFFF",
+        "strokeColor": "#48484A",
+        "textColor": "#48484A",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "denyBtn": {
+        "bgColor": "#00FFFFFF",
+        "strokeColor": "#48484A",
+        "textColor": "#48484A",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "manageSettingsBtn": {
+        "bgColor": "#00FFFFFF",
+        "strokeColor": "#48484A",
+        "textColor": "#48484A",
+        "borderShape": "rounded",
+        "showShadow": false
+      },
+      "headerLogoUrl": "https://asset-prod.launch.liveramp.com/fingerprint-logo-white.png"
+    }
+  },
+  "noticeConfig": {
+    "resurfacingElaboration": "noToggle"
+  },
+  "disclosure": {
+    "hide": false,
+    "hideCustomPurposes": false,
+    "stacks": [
+      1,
+      42
+    ]
+  },
+  "libraryVersion": 1
+}

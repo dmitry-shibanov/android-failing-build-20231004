@@ -1,0 +1,281 @@
+<resources>
+    <string name="app_name">@string/APP_NAME</string>
+    <string name="hostname">@string/HOSTNAME</string>
+
+    <string name="content_authority">@string/CONTENT_AUTHORITY</string>
+    <string name="facebook_app_id">1652117468449953</string>
+
+    <string name="empty" />
+
+    <string name="back">Back</string>
+
+    <string name="download_manager_error">Downloadbeheer is uitgeschakeld.</string>
+    <string name="ok">OK</string>
+    <string name="no_internet_message">Geen internetverbinding</string>
+
+    <string name="no_cache_data_message">Pagina niet bereikbaar.</string>
+    <string name="no_live_data_message">Pagina niet bereikbaar.</string>
+    <string name="data_try_again">Probeer opnieuw</string>
+
+    <string name="buildozer_build_number">Buildozer build #%s</string>
+
+    <string name="update_label">Update</string>
+    <string name="breaking_label">BREAKING</string>
+    <string name="advertentie">Advertentie</string>
+    <string name="more">Meer</string>
+
+    <string name="subscribe">Inschrijven</string>
+    <string name="subscribed">Ingeschreven</string>
+
+    <string name="more_updates">↑ %d nieuwe artikelen weergeven</string>
+
+    <string name="try_again_later">Er is iets misgegaan. Probeer het later nog een keer</string>
+    <string name="anonymous_author">Van onze redacteur</string>
+
+    <string name="upsell_title">Uw artikeltegoed is op of uw abonnement is verlopen</string>
+    <string name="upsell_intro"><![CDATA[<p>Wilt u onbeperkt toegang tot alle artikelen van het FD? Neem dan telefonisch contact op. Onze medewerkers doen u graag een aantrekkelijk aanbod.</p><p>Heeft u toegang tot het FD via uw werkgever, universiteit of hogeschool? Log opnieuw in via <a href=\"https://fd.nl\">FD.nl</a> met uw (zakelijke) e-mailadres.</p>]]></string>
+
+    <string name="archive_title">Artikelen ouder dan 5 jaar</string>
+    <string name="archive_intro">Deze artikelen zijn alleen toegankelijk met het FD Professional abonnement. Hiermee kunt u alle artikelen uit het digitale archief vanaf 1985 lezen.</string>
+
+    <string name="customer_service_button">Bel onze klantenservice</string>
+    <string name="customer_service_phone">08006666667</string>
+    <string name="customer_service_text"><![CDATA[Heeft u vragen?<br>Bel gratis onze klantenservice: 0800–666\u00A0666\u00A07]]></string>
+    <string name="customer_service_text_clickable"><![CDATA[Heeft u vragen?<br>Bel gratis onze klantenservice: <a href=\"tel:+318006666667\">0800–666\u00A0666\u00A07</a>]]></string>
+
+    <string name="login_title">Sluit een abonnement af of log in</string>
+    <string name="login_text">Voor toegang tot de artikelen heeft u een abonnement nodig. U kunt een abonnement afsluiten via onze website. Heeft u al een abonnement? U kunt hieronder inloggen.</string>
+    <string name="subscribe_button">Abonnement afsluiten</string>
+    <string name="login_button">Inloggen</string>
+    <string name="login_missing_data">Vul uw e-mail en wachtwoord in</string>
+    <string name="login_invalid">Uw e-mail en/of wachtwoord is niet juist</string>
+    <string name="login_unauthorized_client">Om in te loggen dient u de app bij te werken. Onze excuses voor het ongemak.</string>
+    <string name="login_error_unknown">Er is een onbekende fout opgetreden.</string>
+    <string name="login_refresh_failed">Uit veiligheidsoverwegingen hebben wij opnieuw uw wachtwoord nodig.</string>
+    <string name="login_error_status">Er is een fout opgetreden. Status code: %s</string>
+    <string name="login_forgot_password">Wachtwoord vergeten?</string>
+    <string name="login_disabled_header">U heeft toegang tot artikelen</string>
+    <string name="login_disabled_text">Inloggen is momenteel niet mogelijk vanwege onderhoud, maar ondertussen kunt u wel onze artikelen lezen. Onze excuses voor het ongemak.</string>
+
+    <string name="federated_access_expiration_title">Verleng uw zakelijke toegang</string>
+    <string name="federated_access_reminder_intro">Uw zakelijke toegang verloopt binnenkort. Log in via %s zodat u opnieuw voor 90 dagen onbeperkt artikelen kunt lezen. Doorgaan met lezen? U krijgt opnieuw de mogelijkheid om te verlengen wanneer uw toegang is verlopen.</string>
+    <string name="federated_access_expired_intro">Uw zakelijke toegang is verlopen. Log in via %s, zodat u opnieuw voor 90 dagen onbeperkt artikelen kunt lezen.</string>
+    <string name="federated_access_renewed_title">Zakelijke toegang verlengd</string>
+    <string name="federated_access_renewed_intro">Uw zakelijke toegang is succesvol verlengd. U kunt de komende 90 dagen weer onbeperkt artikelen lezen met uw zakelijke account.</string>
+    <string name="federated_login">Log in via uw organisatie</string>
+    <string name="federated_close">Sluit</string>
+    <string name="federated_no_renewal">Niet verlengen</string>
+
+    <string name="follow">Volgen</string>
+    <string name="stop_follow">Ontvolgen</string>
+    <string name="follow2">Volg</string>
+    <string name="following">Volgend</string>
+    <string name="stop_follow2">Ontvolg</string>
+    <string name="interest_add">Toevoegen</string>
+    <string name="new_interest">Nieuw onderwerp</string>
+
+    <string name="share">Delen</string>
+    <string name="comments">Reacties</string>
+    <plurals name="comments_count">
+        <item quantity="one">%d reactie</item>
+        <item quantity="other">%d reacties</item>
+    </plurals>
+    <string name="comments_disclaimer"><![CDATA[Bij het plaatsen van een reactie gaat u akkoord met de <a href="https://fd.nl/spelregels/">spelregels</a> en het <a href="https://fd.nl/privacy">privacybeleid</a> van FD.nl]]></string>
+    <string name="comments_banned"><![CDATA[Vanwege eerder misbruik is reageren voor dit account op dit moment niet mogelijk. Zie ook onze <a href="https://fd.nl/spelregels/">spelregels</a>.]]></string>
+    <string name="my_news_interests_heading">Volgen via Mijn nieuws</string>
+    <string name="comment_hint">Typ hier uw reactie&#8230;</string>
+    <string name="comment_button">Plaatsen</string>
+
+    <string name="blocked_content">Door uw privacy instellingen kan deze content van %s niet worden weergegeven.</string>
+    <string name="cookie_consent_link">Privacy instellingen aanpassen</string>
+
+    <string name="latest_news">Net binnen</string>
+
+    <string name="minutes_reading_time">\u0020min leestijd</string>
+
+    <!-- Article-->
+    <string name="updated_time_label">Aangepast om\u0020</string>
+    <string name="updated_date_label">Aangepast op\u0020</string>
+
+    <!-- Action bar navigation-->
+    <string name="title_newspaper_page_strip">Strip</string>
+    <string name="title_newspaper_supplements">Bijlagen</string>
+
+    <!-- Bottom navigation-->
+    <string name="title_home">Home</string>
+    <string name="title_latest_news">Net binnen</string>
+    <string name="title_my_news">Mijn nieuws</string>
+    <string name="title_personalization">U volgt</string>
+    <string name="title_beurs">Beurs</string>
+    <string name="title_newspaper">Krant</string>
+    <string name="title_sections">Secties</string>
+
+    <!-- Account page -->
+    <string name="account">Account</string>
+    <string name="podcasts">Podcasts</string>
+    <string name="alert_settings">Alert instellingen</string>
+    <string name="saved_articles">Bewaarde artikelen</string>
+    <string name="copyright_and_privacy">Copyright &amp; privacy</string>
+    <string name="cmp">Privacy instellingen</string>
+    <string name="privacy">Privacy statement</string>
+    <string name="copyright">Copyright statement</string>
+    <string name="service">Service &amp; contact</string>
+
+    <!-- Alert settings page -->
+    <string name="news">Nieuws</string>
+    <string name="news_text">Ontvang onze beste artikelen</string>
+    <string name="push">Push bericht</string>
+    <string name="background">Achtergrond</string>
+    <string name="background_articles_text">Achtergrondverhalen, reportages en specials</string>
+    <string name="my_news">Mijn nieuws</string>
+    <string name="my_news_text">Ontvang alerts over onderwerpen die u volgt</string>
+    <string name="email">E-mail</string>
+    <string name="your_subjects">Uw onderwerpen</string>
+
+    <string name="login">Inloggen</string>
+    <string name="logout">Uitloggen</string>
+
+    <string name="no_favorites">U heeft nog geen artikelen bewaard</string>
+
+    <string name="beta">BETA</string>
+    <string name="newspaper">Krant</string>
+
+    <string name="monday">Maandag</string>
+    <string name="tuesday">Dinsdag</string>
+    <string name="wednesday">Woensdag</string>
+    <string name="thursday">Donderdag</string>
+    <string name="friday">Vrijdag</string>
+    <string name="saturday">Zaterdag</string>
+
+    <string name="today">Vandaag</string>
+    <string name="yesterday">Gisteren</string>
+    <string name="close">Sluiten</string>
+
+    <string name="download_error">Downloaden van de krant is momenteel niet mogelijk. Probeer later opnieuw.</string>
+    <string name="download_error_title">Fout opgetreden</string>
+    <string name="download_error_no_access">Om toegang te krijgen tot de krant heeft u een abonnement nodig. U kunt een abonnement afsluiten via onze website.</string>
+    <string name="download_error_no_access_title">Alleen toegang voor abonnees</string>
+    <string name="download_error_not_logged_in">Om toegang te krijgen tot de krant moet u ingelogd zijn.</string>
+    <string name="view_subscriptions">BEKIJK ABONNEMENTEN</string>
+    <string name="close_short">SLUIT</string>
+
+    <string name="dailypaper">Dagkrant</string>
+    <string name="futures">Futures</string>
+    <string name="fd_persoonlijk">FD Persoonlijk</string>
+    <string name="specials">Special</string>
+    <string name="commercials">Commerciële bijlage</string>
+    <string name="other_supplement">Overige bijlage</string>
+
+    <string name="not_weekend_error">Met een FD Weekend-abonnement heeft u enkel toegang tot de zaterdagkrant. Bel met onze klantenservice (0800 666 6667) om uw abonnement te wijzigen.</string>
+    <string name="not_weekend_error_title">Geen toegang tot deze krant</string>
+    <string name="not_weekend_error_close">SLUIT</string>
+
+    <string name="offline_article_notification_text">U ziet de offline weergave</string>
+    <string name="offline_article_more_info">Meer info</string>
+    <string name="offline_content_text"><![CDATA[Deze %s wordt niet getoond in de offline weergave. <font color=%s>Meer info</font>]]></string>
+
+    <string name="offline_article_dialog_title">Wat houdt de offline weergave in?</string>
+    <string name="offline_article_dialog_text">Wanneer u een krant downloadt om offline te kunnen lezen. In de offline versie zijn niet alle elementen in het artikel beschikbaar.</string>
+
+    <string name="gifting_title">Deel het artikel</string>
+    <string name="gifting_label_radio_gift"><![CDATA[<font color=%s><b>Als cadeau</b></font><font color=%s> - direct te lezen</font>]]></string>
+    <string name="gifting_label_radio_standard"><![CDATA[<font color=%s><b>Standaard</b></font><font color=%s> - alleen met account te lezen</font>]]></string>
+    <string name="gifting_gifts_remaining"><![CDATA[U kunt nog <b>%s artikelen</b> schenken deze maand]]></string>
+    <string name="gifting_gifts_share"><![CDATA[Per cadeau kunnen <b>%s mensen</b> het artikel direct lezen]]></string>
+    <string name="gifting_generate">Genereer cadeau</string>
+    <string name="gifting_explain">Hoe werkt het delen?</string>
+    <string name="gifting_share">Deel cadeau</string>
+    <string name="gifting_footer_button_text">Doe dit artikel cadeau</string>
+    <string name="gifting_footer_title">Deel dit artikel met iedereen</string>
+
+    <string name="gifting_share_subject_postfix">| Cadeau-artikel via FD.nl</string>
+    <string name="gifting_share_content_postfix">\u0020(gratis te lezen)</string>
+
+    <string name="font_scale_title">Lettergrootte</string>
+    <string name="font_scale_system_label">Gebruik mijn systeeminstellingen</string>
+    <string name="small">Klein</string>
+    <string name="large">Groot</string>
+
+    <string name="standard_share_choice_text">Ontvangers kunnen een gratis account aanmaken</string>
+    <string name="standard_share_choice_button">Standaard delen</string>
+    <string name="standard_share_text1">U heeft het maximaal aantal artikelen geschonken. Vanaf %s kunt u weer %s artikelen schenken. </string>
+    <string name="standard_share_text2"><![CDATA[Tot die tijd kunt u artikelen <b>standaard delen</b> en lezen ontvangers het artikel door in te loggen of een gratis account aan te maken.]]></string>
+    <string name="standard_share_button">Standaard delen</string>
+
+    <string name="standard_share_subject_postfix"> | artikel gedeeld via FD.nl</string>
+
+    <string name="gifting_info_title">Hoe werkt het delen?</string>
+    <string name="gifting_info_gift_header">Als cadeau</string>
+    <string name="gifting_info_gift_text"><![CDATA[
+        Elke maand kunt u %s artikelen schenken.<br>
+        Een geschonken artikel is direct te lezen door %s mensen zonder FDMG-account. Hierbij wordt uw naam getoond als afzender. Wilt u dit wijzigen? Dat kan via <a href="https://fd.nl/mijn-fd/">Mijn FD</a>.<br>
+        Ontvangers met een account tellen we niet mee. Heeft iedereen een account? Dan krijgt u uw tegoed weer terug.<br>
+        De link verloopt na %s dagen.]]></string>
+    <string name="gifting_info_standard_header">Standaard</string>
+    <string name="gifting_info_standard_text">U deelt onbeperkt artikelen met mensen met een FDMG-account. Mensen zonder account registreren zich gratis om het artikel te zien.</string>
+    <string name="gifting_info_back">Ga terug</string>
+
+    <string name="cmp_error_title">Privacy instellingen</string>
+
+    <string name="relevant_teasers_title">Meer …</string>
+
+    <!-- Search-->
+    <string name="search_icon">Search icon</string>
+    <string name="search">Zoeken…</string>
+
+    <string name="search_term_hint">Zoek artikelen</string>
+
+    <string name="search_results_none">Geen</string>
+    <string name="search_results">\u0020resultaten</string>
+
+    <!-- My news -->
+    <string name="my_news_login_title">Mijn Nieuws</string>
+    <string name="my_news_login_text">Log in met uw FD-account om uw favoriete onderwerpen te volgen</string>
+    <string name="predefined_interests_intro">Dit is Mijn nieuws, waar u zelf kunt kiezen welke onderwerpen u wilt volgen</string>
+    <string name="configure_interests">Onderwerpen aanpassen</string>
+
+    <!-- Sections -->
+    <string name="section_title_economy">Economie</string>
+    <string name="section_title_politics">Politiek</string>
+    <string name="section_title_corporate">Bedrijfsleven</string>
+    <string name="section_title_financial_markets">Financiële markten</string>
+    <string name="section_title_society">Samenleving</string>
+    <string name="section_title_tech">Tech &amp; Innovatie</string>
+    <string name="section_title_opinion">Opinie</string>
+
+    <!-- Image descriptions -->
+    <string name="close_description">Sluit</string>
+    <string name="ok_description">OK</string>
+
+    <!-- Topics -->
+    <string name="linked_topics">Gerelateerde onderwerpen</string>
+    <string name="linked_topics_section">\'Gerelateerde onderwerpen\' sectie</string>
+
+    <string name="new_topic_articles">\u0020nieuw</string>
+    <string name="new_topic_articles_30">30+ nieuw</string>
+    <string name="last_seen_marker_text">Laatst gezien</string>
+    <string name="no_topics_title">U volgt nog geen onderwerpen</string>
+    <string name="no_topics_text">Onderaan artikelen vindt u bedrijven en andere onderwerpen die u kunt volgen. Tevens kunt u meldingen inschakelen, zodat u niets meer mist.</string>
+    <string name="no_topics_add_button">Voeg een onderwerp toe</string>
+    <string name="no_topics_image">Leeg overzicht afbeelding</string>
+    <string name="follow_dialog_title">U volgt ‘%s’</string>
+    <string name="follow_dialog_text">Wilt u ook meldingen ontvangen voor dit onderwerp?</string>
+    <string name="follow_alerts_off_toast_text"><![CDATA[U volgt ‘%s’ <b>zonder meldingen</b>]]></string>
+    <string name="follow_alerts_on_toast_text"><![CDATA[U volgt ‘%s’ <b>met meldingen</b>]]></string>
+    <string name="unfollow_toast_text"><![CDATA[U volgt ‘%s’ niet meer]]></string>
+    <string name="alerts_on">Meldingen ontvangen</string>
+    <string name="alerts_off">Geen meldingen</string>
+
+    <string name="following_dialog_title">Meldingen ‘%s’</string>
+    <string name="following_dialog_unfollow_text">Niet meer volgen</string>
+
+    <string name="notifications_dialog_title">Meldingen staat uit voor FD</string>
+    <string name="notifications_dialog_text">Tik op ‘Meldingen inschakelen’ en wijzig dit in uw apparaatinstellingen.</string>
+
+    <string name="notifications_enable">Meldingen inschakelen</string>
+    <string name="cancel">Annuleren</string>
+
+    <string name="add_topic_text">Onderwerp\ntoevoegen</string>
+    <string name="add_topic_title">Onderwerpen toevoegen</string>
+
+</resources>

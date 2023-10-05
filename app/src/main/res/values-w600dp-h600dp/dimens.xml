@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Newspaper page strip -->
+    <dimen name="pageStripHeight">198dp</dimen>
+    <dimen name="pageStripRecyclerHeight">192dp</dimen>
+    <dimen name="pageStripPaddingTop">4dp</dimen>
+    <dimen name="pageStripPaddingBottom">8dp</dimen>
+    <dimen name="pageStripItemWidth">127dp</dimen>
+</resources>

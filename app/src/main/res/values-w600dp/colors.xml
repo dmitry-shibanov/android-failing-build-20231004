@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trading">@color/neutral10</color>
+    <color name="not_trading">@color/neutral40</color>
+
+    <color name="relevant_teasers_background">@color/neutral90</color>
+</resources>

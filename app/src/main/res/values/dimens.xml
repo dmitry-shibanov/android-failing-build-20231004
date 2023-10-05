@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zeroDP">0dp</dimen>
+
+    <dimen name="cardBottomLine">1dp</dimen>
+
+    <dimen name="verticalTeaserMarginTop">16dp</dimen>
+    <dimen name="verticalTeaserMarginBottom">16dp</dimen>
+    <dimen name="verticalTeaserIntroMarginTop">5dp</dimen>
+    <dimen name="verticalTeaserTitleMarginBottom">5dp</dimen>
+    <dimen name="verticalTeaserTitleMarginBottomLarge">12dp</dimen>
+    <dimen name="horizontalTeaserMarginBottom">16dp</dimen>
+    <dimen name="teaserTitleMarginTop">8dp</dimen>
+    <dimen name="shortArticleTitleMarginTop">3dp</dimen>
+    <dimen name="shortArticleTitleMarginBottom">8dp</dimen>
+    <dimen name="shortArticleHorizontalMargin">@dimen/teaserLayoutPaddingSides</dimen>
+
+    <dimen name="articleTitleSize">35sp</dimen>
+    <dimen name="articleBackgroundTitleSize">42sp</dimen>
+    <dimen name="articleMetaTextSize">14sp</dimen>
+    <dimen name="articleAuthorHorizontalMargin">8dp</dimen>
+
+    <dimen name="articleSuggestionsMarginSide">0dp</dimen>
+    <dimen name="articleSuggestionsMarginBottom">16dp</dimen>
+
+    <dimen name="navigationIconSize">24dp</dimen>
+    <dimen name="horizontalTeaser1TagMarginTop">16dp</dimen>
+    <dimen name="horizontalTeaser2TagMarginTop">10dp</dimen>
+    <dimen name="teaserLayoutPaddingSides">16dp</dimen>
+    <dimen name="authorLinkImageHeight">36dp</dimen>
+
+    <dimen name="authorPageImageSize">100dp</dimen>
+
+    <dimen name="stockTickerViewPaddingTop">3dp</dimen>
+    <dimen name="stockTickerViewPaddingBottom">5dp</dimen>
+    <dimen name="stockTickerIconSize">24dp</dimen>
+    <dimen name="stockTickerIconPosition">@dimen/stockTickerFontSize</dimen>
+    <dimen name="stockTickerFontSize">12dp</dimen>
+    <dimen name="stockTickerMarginTop">10dp</dimen>
+    <dimen name="stockTickerMarginBottom">10dp</dimen>
+
+    <dimen name="overviewHeaderWhitespaceTop">5dp</dimen>
+    <dimen name="overviewHeaderMarginLeft">@dimen/teaserLayoutPaddingSides</dimen>
+    <dimen name="overviewHeaderMarginTop">19dp</dimen>
+    <dimen name="overviewHeaderMarginBottom">14dp</dimen>
+
+    <dimen name="topicDetailsHeaderMarginVertical">16dp</dimen>
+    <dimen name="topicDetailsHeaderTitleMarginVertical">8dp</dimen>
+    <dimen name="topicOverviewMargin">8dp</dimen>
+    <dimen name="linkedTopicsMargin">16dp</dimen>
+    <dimen name="linkedTopicsTitlePadding">16dp</dimen>
+
+    <dimen name="topicGroupBottomMargin">16dp</dimen>
+
+    <dimen name="sectionCardDefaultHeight">100dp</dimen>
+    <dimen name="horizontalCardSquareImageSize">@dimen/horizontalCardSquareImageSmall</dimen>
+    <dimen name="horizontalCardSquareImageSmall">80dp</dimen>
+    <dimen name="horizontalCardSquareImageLarge">112dp</dimen>
+    <dimen name="deleteButtonAreaWidth">50dp</dimen>
+    <dimen name="horizontalCardLandscapeImageWidth">80dp</dimen>
+    <dimen name="horizontalCardLandscapeImageHeight">60dp</dimen>
+
+    <dimen name="newsletterSectionCardSpacing">16dp</dimen>
+    <dimen name="newsletterTeaserMarginVertical">16dp</dimen>
+    <dimen name="newsletterTeaserIconPadding">8dp</dimen>
+    <dimen name="newsletterTeaserButtonPadding">12dp</dimen>
+
+    <dimen name="summaryItemDecorationPadding">8sp</dimen>
+    <dimen name="summaryItemVerticalSpacing">15.0sp</dimen>
+    <dimen name="summaryItemLineHeight">20.4sp</dimen>
+
+    <dimen name="textFrameContentItemVerticalSpacing">8sp</dimen>
+
+    <dimen name="shimmerWidthRatio">1.5</dimen>
+    <dimen name="shimmerHighlightAlpha">0.4</dimen>
+    <dimen name="shimmerBaseAlpha">0.8</dimen>
+
+    <dimen name="teaserLabelPaddingLeft">10dp</dimen>
+    <dimen name="teaserLabelPaddingRight">10dp</dimen>
+    <dimen name="teaserLabelPaddingTop">2dp</dimen>
+    <dimen name="teaserLabelPaddingBottom">2dp</dimen>
+
+    <dimen name="superTagPaddingTop">4dp</dimen>
+    <dimen name="superTagPaddingLeft">10dp</dimen>
+    <dimen name="superTagPaddingBottom">4dp</dimen>
+    <dimen name="superTagPaddingRight">10dp</dimen>
+
+    <dimen name="adsAdvertentieSize">12sp</dimen>
+    <dimen name="adsAdvertentiePaddingBottom">5dp</dimen>
+
+    <!-- Combine these two dimensions to show a small fraction of the next article -->
+    <dimen name="viewPagerMargin">0dp</dimen>
+    <dimen name="viewPortMaxWidth">576dp</dimen>
+    <dimen name="viewPortWidth">-1px</dimen>
+    <dimen name="loginViewPortWidth">-1px</dimen>
+    <dimen name="contentHorizontalMargin">12dp</dimen>
+
+    <dimen name="contentParagraphMarginTop">10dp</dimen>
+    <dimen name="contentParagraphMarginBottom">10dp</dimen>
+
+    <dimen name="contentHeaderMarginTop">16dp</dimen>
+    <dimen name="contentShortHeaderMarginTop">30dp</dimen>
+    <dimen name="contentThemedHeaderMarginTop">30dp</dimen>
+    <dimen name="contentHeadingMarginBottom">7dp</dimen>
+
+    <dimen name="contentImageMarginTop">10dp</dimen>
+    <dimen name="contentImageMarginBottom">0dp</dimen>
+
+    <dimen name="contentInfographicWebviewHeight">500dp</dimen>
+
+    <dimen name="contentTitleMarginBottomLarge">32dp</dimen>
+    <dimen name="contentTitleMarginBottomSmall">12dp</dimen>
+    <dimen name="contentIntroMarginBottom">16dp</dimen>
+
+    <dimen name="offlineNotificationMargin">16dp</dimen>
+    <dimen name="offlineNotificationHeight">50dp</dimen>
+
+    <dimen name="dialogMargin">16dp</dimen>
+    <dimen name="dialogButtonPadding">12dp</dimen>
+    <dimen name="dialogCancelPadding">20dp</dimen>
+    <dimen name="dialogCancelSize">18dp</dimen>
+
+    <!-- topics -->
+    <dimen name="topicOverviewItemMargin">8dp</dimen>
+    <dimen name="topicTitleMargin">12dp</dimen>
+    <dimen name="topicTitleSize">16sp</dimen>
+    <dimen name="topicUnseenSize">13sp</dimen>
+    <dimen name="topicUnseenPadding">12dp</dimen>
+
+
+    <dimen name="topicOverviewViewPortMaxWidth">848dp</dimen>
+    <dimen name="topicSelectViewPortMaxWidth">480dp</dimen>
+
+
+    <!--Upsell-->
+    <dimen name="upsellIconSize">36dp</dimen>
+    <dimen name="upsellIconMarginTop">28dp</dimen>
+
+    <dimen name="upsellTitleMarginTop">32dp</dimen>
+    <dimen name="upsellTitleMarginRight">16dp</dimen>
+    <dimen name="upsellTitleMarginLeft">16dp</dimen>
+    <dimen name="upsellTitleSize">23sp</dimen>
+
+    <dimen name="upsellIntroMarginTop">16dp</dimen>
+    <dimen name="upsellIntroMarginLeft">16dp</dimen>
+    <dimen name="upsellIntroMarginRight">16dp</dimen>
+    <dimen name="upsellIntroSize">16sp</dimen>
+    <dimen name="upsellServiceSize">12sp</dimen>
+
+    <dimen name="upsellButtonMarginBottom">28dp</dimen>
+
+    <!--Article Login-->
+
+    <dimen name="loginIconSize">36dp</dimen>
+    <dimen name="loginIconMarginTop">52dp</dimen>
+
+    <dimen name="loginTitleMarginTop">44dp</dimen>
+    <dimen name="loginTitleMarginBottom">30dp</dimen>
+    <dimen name="loginTitleMarginRight">16dp</dimen>
+    <dimen name="loginTitleMarginLeft">16dp</dimen>
+    <dimen name="loginTitleSize">23sp</dimen>
+
+    <dimen name="loginTextMarginTop">24dp</dimen>
+    <dimen name="loginTextMarginStart">16dp</dimen>
+    <dimen name="loginTextMarginEnd">16dp</dimen>
+    <dimen name="loginTextSize">16dp</dimen>
+
+    <dimen name="loginButtonMarginStart">16dp</dimen>
+    <dimen name="loginButtonMarginEnd">16dp</dimen>
+    <dimen name="subscribeButtonMarginTop">24dp</dimen>
+    <dimen name="loginButtonMarginTop">16dp</dimen>
+    <dimen name="loginPagePaddingBottom">16dp</dimen>
+
+    <!--Login Page-->
+    <dimen name="loginPageIconMarginTop">244dp</dimen>
+    <dimen name="loginPageIconSize">54dp</dimen>
+    <dimen name="loginPageMargin">16dp</dimen>
+
+    <!--Home-->
+
+    <dimen name="breakingTeaserMarginLeft">12dp</dimen>
+    <dimen name="breakingTeaserMarginTop">8dp</dimen>
+    <dimen name="breakingTeaserDefaultHeight">100dp</dimen>
+    <dimen name="homeHorizontalMargin">0dp</dimen>
+    <dimen name="homeHorizontalGridMargin">0dp</dimen>
+    <dimen name="homeGridMargin">0dp</dimen>
+    <dimen name="homeGridMarginTop">0dp</dimen>
+    <dimen name="homeGridMarginBottom">8dp</dimen>
+    <dimen name="tagIntroTextSize">16sp</dimen>
+    <dimen name="sectionBlockHeaderTextSize">19sp</dimen>
+
+    <!-- Menu pages -->
+    <dimen name="menuHorizontalMargin">16dp</dimen>
+    <dimen name="menuItemHeight">48dp</dimen>
+
+    <!-- Gifting -->
+    <dimen name="giftingInformationLineHeight">20dp</dimen>
+    <dimen name="giftingInformationVerticalSpacing">28dp</dimen>
+
+    <!-- Newspaper nav bar -->
+    <dimen name="titleMarginLeftWithBack">0dp</dimen>
+    <dimen name="titleMarginLeftNoBack">16dp</dimen>
+
+    <!-- Newspaper page strip -->
+    <dimen name="pageStripHeight">138dp</dimen>
+    <dimen name="pageStripRecyclerHeight">132dp</dimen>
+    <dimen name="pageStripPaddingTop">4dp</dimen>
+    <dimen name="pageStripPaddingBottom">8dp</dimen>
+    <dimen name="pageStripItemWidth">84dp</dimen>
+
+    <!-- Alert settings -->
+    <dimen name="alertSettingsHorizontalPadding">16dp</dimen>
+    <dimen name="alertSettingsButtonVerticalPadding">12dp</dimen>
+    <dimen name="alertSettingsTitleVerticalPadding">16dp</dimen>
+
+    <!-- Font scale dialog -->
+    <dimen name="fontScaleDialogMargin">16dp</dimen>
+    <dimen name="fontScaleDialogIconSize">24dp</dimen>
+    <dimen name="fontScaleDialogSliderPadding">8dp</dimen>
+
+    <!-- My news interests -->
+    <dimen name="followButtonDrawablePadding">10dp</dimen>
+    <dimen name="followButtonSmallPadding">5dp</dimen>
+    <dimen name="followButtonLargePadding">10dp</dimen>
+
+    <!-- Topics -->
+    <dimen name="personalizationFollowButtonDrawablePadding">8dp</dimen>
+    <dimen name="topicPopupWidth">360dp</dimen>
+
+    <dimen name="followDialogPaddingHorizontal">16dp</dimen>
+    <dimen name="followDialogMarginTop">24dp</dimen>
+    <dimen name="followDialogTextMarginTop">8dp</dimen>
+    <dimen name="followDialogButtonMarginTop">16dp</dimen>
+    <dimen name="followDialogButtonMarginBetween">8dp</dimen>
+    <dimen name="followDialogButtonPaddingHorizontal">16dp</dimen>
+    <dimen name="followDialogButtonPaddingVertical">12dp</dimen>
+    <dimen name="followDialogButtonDrawablePadding">7dp</dimen>
+    <dimen name="followDialogSeparatorThickness">2dp</dimen>
+
+    <dimen name="topicSelectVerticalMargin">16dp</dimen>
+
+    <dimen name="topicAddItemBackgroundSize">60dp</dimen>
+    <dimen name="topicAddItemIconSize">30dp</dimen>
+    <dimen name="topicAddItemMargin">8dp</dimen>
+
+    <!-- Overview pages -->
+    <dimen name="sectionHeaderTextSize">24sp</dimen>
+
+
+
+</resources>

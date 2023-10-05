@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="viewPortWidth">576dp</dimen>
+    <dimen name="loginViewPortWidth">443dp</dimen>
+    <dimen name="menuHorizontalMargin">0dp</dimen>
+</resources>

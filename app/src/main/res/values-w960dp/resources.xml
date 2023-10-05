@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isSmall">false</bool>
+    <bool name="isMedium">false</bool>
+    <bool name="isLarge">true</bool>
+</resources>

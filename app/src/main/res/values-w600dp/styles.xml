@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="StockTickerNameStyle">
+        <item name="android:fontFamily">@font/proxima_nova_bold</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="StockTickerStyle">
+        <item name="android:fontFamily">@font/proxima_nova</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="BreakingTitleHorizontal" parent="ArticleTitle">
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="ArticleIntro">
+        <item name="android:fontFamily">@font/arnhem_pro_blond</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/neutral10</item>
+        <item name="android:lineSpacingExtra">6dp</item>
+    </style>
+
+    <style name="ArticleMeta">
+        <item name="android:fontFamily">@font/proxima_nova_bold</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/neutral40</item>
+    </style>
+
+    <style name="DismissButton" parent="PositiveButtonStyle">
+        <item name="android:fontFamily">@font/proxima_nova_bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="BetaText">
+        <item name="android:fontFamily">@font/proxima_nova_regular</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineSpacingExtra">9sp</item>
+        <item name="android:textColor">@color/neutral0</item>
+    </style>
+
+    <style name="Supplement">
+        <item name="android:fontFamily">@font/arnhem_pro_bold</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/neutral0</item>
+    </style>
+
+    <style name="ArticleMetaThin">
+        <item name="android:fontFamily">@font/proxima_nova</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/neutral30</item>
+    </style>
+
+    <style name="TeaserTag">
+        <item name="android:fontFamily">@font/proxima_nova</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="TeaserTitleHorizontal" parent="ArticleTitle">
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="TeaserTitlePodcast" parent="ArticleTitle">
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="TopicSelectItem">
+        <item name="android:fontFamily">@font/proxima_nova</item>
+        <item name="android:textColor">@color/neutral10</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TopicSelectParentItem">
+        <item name="android:fontFamily">@font/proxima_nova_bold</item>
+        <item name="android:textColor">@color/neutral10</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
