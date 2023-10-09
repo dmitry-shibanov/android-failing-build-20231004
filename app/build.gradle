@@ -34,7 +34,6 @@ android {
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled true
         resConfigs "en", "nl" // Only package these languages from libraries
-        signingConfig signingConfigs.ProdReleaseSigning
     }
     packagingOptions {
         exclude 'META-INF/rxjava.properties'
