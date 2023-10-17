@@ -2,6 +2,7 @@ name: Manual Dev build
 
 on:
   workflow_dispatch:
+  push:
 
 jobs:
   build:
