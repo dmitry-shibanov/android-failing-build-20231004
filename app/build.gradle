@@ -18,9 +18,12 @@ android {
     compileSdkVersion 34
     buildToolsVersion '30.0.3'
 
-    buildFeatures {
-        dataBinding true
-    }    
+    // buildFeatures {
+    //     dataBinding true
+    // }    
+    androidExtensions {
+        experimental = true
+    }
 
     dataBinding {
         //noinspection DataBindingWithoutKapt
